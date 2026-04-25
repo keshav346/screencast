@@ -1,0 +1,6 @@
+{
+  "name": "ScreenShare Network",
+  "description": "Share your screen with multiple devices on the same network.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": []
+}
